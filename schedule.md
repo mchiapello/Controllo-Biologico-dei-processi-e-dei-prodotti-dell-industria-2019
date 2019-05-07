@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Data Entry and Storage', 'Database Queries',
-'Introduction to R and RStudio', ' ”Hurricane Week” ', 'Working with Data', 'Data Visualization',
-'Projects Structure', 'Version Control', 'Working with Spatial Data', 'Programming Fundamentals 1',
-'Programming Fundamentals 2', 'Project Week', 'Knitr',
-'gganimate', 'tidyr', 'Project Week']
+assignments: ['Spreadsheet', 'R programming', 'Tidydata and visualisation (part 1)',
+'Visualisation (part 2) and Rmarkdown (part 1)', 'Rmarkdown (part 2) and Statistical analysis',
+'Final exam']
 ---
 
 [Assignment submission & checklist]({{ site.baseurl }}/materials/turn-in-checklist)
