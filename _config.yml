@@ -9,16 +9,15 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry -for- Biologists
-description:      'Teaching the tools to get computers to do cool science'
-url:              http://mvevans89.github.io/ECOL-8030
-baseurl:          /ECOL-8030
-email:            datacarpentrysemester@weecology.org
+title:            Controllo Biologico dei processi e dei prodotti dell'industria
+description:      'Data analysis'
+url:              http://mchiapello.github.io/Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019
+baseurl:          /Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019
+email:            chiapello.m@gmail.com
 feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSdV_polFmoukgjcs1IC0Dd4iO1rdgwFnOds28xC_ma_z4tNIw
 author:
-  name:           'Michelle Evans'
-  url:            https://twitter.com/ethanwhite
+  name:           'Marco Chiapello'
 
 github:
-  repo:           https://github.com/mvevans89/ECOL-8030
+  repo:           https://github.com/mchiapello/Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019
   #               Be sure the 'Issues' feature is activated in 'Settings'
