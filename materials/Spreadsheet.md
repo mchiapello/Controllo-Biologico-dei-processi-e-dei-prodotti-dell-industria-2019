@@ -1,7 +1,7 @@
 ---
 layout: page
 element: notes
-title: Spreadsheet
+title: Spreadsheet material
 language: Spreadsheet
 ---
 
