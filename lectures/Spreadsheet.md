@@ -6,4 +6,4 @@ language: Spreadsheet
 ---
 
 # Spreadsheet lesson
-- [Data Organization in Spreadsheets]({{ site.baseurl }}/materials/Spreadsheet.md)
+- [Data Organization in Spreadsheets]({{ site.baseurl }}/materials/Spreadsheet)
