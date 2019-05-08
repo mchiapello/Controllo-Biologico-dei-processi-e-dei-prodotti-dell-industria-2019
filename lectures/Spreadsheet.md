@@ -5,6 +5,5 @@ title: Spreadsheet
 language: Spreadsheet
 ---
 
-# Spreadsheet material
-
-- [Data Organization in Spreadsheets](https://datacarpentry.org/spreadsheet-ecology-lesson/)
+# Spreadsheet lesson
+- [Data Organization in Spreadsheets]({{ site.baseurl }}/materials/Spreadsheet.md)
