@@ -3,7 +3,7 @@ layout: page
 title: Exercises
 languages: ['Spreadsheet', 'R']
 ---
-<a href="#SQL">SQL</a> \| <a href="#R">R</a> \| <a href="#Python">Python</a> \|  <a href="#Access">Access</a>
+<a href="#Spreadsheet">Spreadsheet</a> \| <a href="#R">R</a>
 
 {% for language in page.languages %}
   <h3> {{ language }} <a name="{{ language }}"></a></h3>
