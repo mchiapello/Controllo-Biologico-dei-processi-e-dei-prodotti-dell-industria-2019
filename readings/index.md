@@ -5,14 +5,14 @@ title: Readings
 
 ### Spreadsheet
 
-* [Data Entry and organization](spreadsheet-data)
+* [Data Entry and organization](Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019/readings/Spreadsheet.md)
 
 ### R
 
 * [Introduction to R and RStudio](R-intro)
 * [Working with Data](R-data)
 * [Data Visualization](R-datavis)
-* [R,arkdown](R-markdown)
+* [Rmarkdown](R-markdown)
 
 
 ### Statistics
