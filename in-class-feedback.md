@@ -2,5 +2,8 @@
 layout: page
 title: In class feedback
 ---
+<a href="#Spreadsheet">Spreadsheet</a> \| <a href="#R">R</a>
 
-<iframe src="{{ site.feedbackurl }}/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+| Language | Topic | Feedback |
+|---|---|---|
+| Spreadsheet | What are they? | [link](https://docs.google.com/forms/d/121YXNtkowJ4URPRlB2P49p7h_E6Xfwj-kkjff7tyHBE/prefill)|
