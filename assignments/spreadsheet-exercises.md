@@ -6,7 +6,7 @@ language: Spreadsheet
 exercises: ['Basic-01']
 ---
 
-#### Learning Objectives
+## Learning Objectives
 
 > Following this assignment students should be able to:
 >
@@ -16,11 +16,10 @@ exercises: ['Basic-01']
 > - Basic quality control and data manipulation in spreadsheets
 > - Exporting data from spreadsheets
 
-#### Additional readings
 
 {% include reading.html %}
 
-#### Assignments
+
 
 {% include assignment.html %}
 
