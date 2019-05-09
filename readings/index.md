@@ -5,7 +5,7 @@ title: Readings
 
 ### Spreadsheet
 
-* [Data Entry and organization](Controllo-Biologico-dei-processi-e-dei-prodotti-dell-industria-2019/readings/Spreadsheet.md)
+* [Data Entry and organization]({{ site.baseurl }}/readings/Spreadsheet)
 
 ### R
 
