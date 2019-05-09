@@ -3,25 +3,19 @@ layout: page
 title: Lectures
 ---
 
-### SQL
+### Spreadsheet
 
-* [Introduction to Databases](SQL-intro)
-* [Database Structure and Joins](SQL-joins)
+* [Data Entry and organization]({{ site.baseurl }}/lectures/Spreadsheet)
 
 ### R
 
-* [Introduction to R and RStudio](R-intro)
-* [Working with Data](R-data)
-* [Data Visualization](R-datavis)
-* [Programming Fundamentals 1](R-fundamentals-1)
-* [Programming Fundamentals 2](R-fundamentals-2)
-* [`knitr`](R-knitr)
-* [Working with Spatial Data](R-spatial)
-* [Working with Databases](R-databases)
-* [Version Control Basics](R-git)
-* [Putting It All Together](R-capstone)
+* [Introduction to R and RStudio]
+* [Working with Data]
+* [Data Visualization]
+* [Rmarkdown]
 
-### Git
 
-* [Git with R](R-git)
+### Statistics
+
+* [Statistical data analysis]
 
