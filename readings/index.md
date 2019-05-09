@@ -9,12 +9,12 @@ title: Readings
 
 ### R
 
-* [Introduction to R and RStudio](R-intro)
-* [Working with Data](R-data)
-* [Data Visualization](R-datavis)
-* [Rmarkdown](R-markdown)
+* [Introduction to R and RStudio]
+* [Working with Data]
+* [Data Visualization]
+* [Rmarkdown]
 
 
 ### Statistics
 
-* [Statistical data analysis](Stat-analysis)
+* [Statistical data analysis]
