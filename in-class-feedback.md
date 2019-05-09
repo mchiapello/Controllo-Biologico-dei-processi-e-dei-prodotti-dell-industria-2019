@@ -2,7 +2,7 @@
 layout: page
 title: In class feedback
 ---
-<a href="#Spreadsheet">Spreadsheet</a> \| <a href="#R">R</a>
+### Spreadsheet
 
 | Language | Topic | Feedback |
 |---|---|---|
