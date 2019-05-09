@@ -1,6 +1,6 @@
 ---
 layout: page
-element: lectures
+element: lecture
 title: Spreadsheet 
 language: Spreadsheet
 ---
