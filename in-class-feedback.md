@@ -4,9 +4,9 @@ title: In class feedback
 ---
 
 ### Pre-corso
-Topic | Feedback |
+|Topic | Feedback |
 |---|---|
-| Cora ti aspetti dal corso | [link](https://docs.google.com/forms/d/e/1FAIpQLSdRif1cE4CxPlRyeOEdCTus2HX2pR0nObTWFho6CWAtrFKw_g/viewform?usp=sf_link)
+| Cosa ti aspetti dal corso | [link](https://docs.google.com/forms/d/e/1FAIpQLSdRif1cE4CxPlRyeOEdCTus2HX2pR0nObTWFho6CWAtrFKw_g/viewform?usp=sf_link)
 
 ### Spreadsheet
 
