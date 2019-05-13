@@ -16,17 +16,17 @@ TA_email: silvia.perotto@unito.it
 ## {{ site.title }} 
 
 
-### Professor
+### Insegnante
 
 {{ page.professor }}
 
-Office: {{ page.office }}
+Ufficio: {{ page.office }}
 
-Email (best way to contact us):
+Email (il miglior modo per contattarmi):
 [{{ page.email }}](mailto:{{ page.email }})
 
 
-### Times & Location
+### Luogo e ora
 
 **Note: class locations may change! I will try to notify you asap**
 
@@ -35,7 +35,7 @@ Email (best way to contact us):
 {% endfor %}
 
 
-### Office Hours
+### Ore di ricevimento
 
 Times: {{ page.office_hours }}
 
@@ -46,7 +46,7 @@ please try to schedule appointments as far in advance as possible. In general it
 will be very difficult to set up appointments less than 24 hours in advance.*
 
 
-### Course TA
+### Responsabile del corso
 
 {{ page.TA }}
 
@@ -61,28 +61,28 @@ Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 
 
-### Course Communications
+### Comunicazioni
 
 Email: [{{ page.email }}](mailto:{{ page.email }})
 
 
-### Required Texts
+### Libri richiesti
 
 There is no required text book for this class.
 
 All needed material is openly available on the course website. If you are interested in additional reading on the topics we are covering I highly recommend R for Data Science, which is freely available on the web.
 
-### Course Description
+### Descrizione del corso
  
-Computers are increasingly essential to the study of all aspects of biology. Data management skills are needed for entering data without errors, storing it in a usable way, and extracting key aspects of the data for analysis. Basic programming is required for everything from accessing and managing data, to statistical analysis, to modeling. This course will provide an introduction to data management, manipulation, and analysis, with an emphasis on biological problems. Class will typically consist of short introductions or question & answer sessions, followed by hands on computing exercises. The course will be taught using R and SQLite, but the concepts learned will easily apply to all programming languages and database management systems. No background in programming or databases is required.
+Computers are increasingly essential to the study of all aspects of biology. Data management skills are needed for entering data without errors, storing it in a usable way, and extracting key aspects of the data for analysis. Basic programming is required for everything from accessing and managing data, to statistical analysis, to modeling. This course will provide an introduction to data management, manipulation, and analysis, with an emphasis on biological problems. Class will typically consist of short introductions or question & answer sessions, followed by hands on computing exercises. The course will be taught using R, but the concepts learned will easily apply to all programming languages and database management systems. No background in programming or databases is required.
 
 
-### Prerequisite Knowledge and Skills
+### Prerequisiti
 
-Knowledge of basic biology.
+Nessuno
 
 
-### Purpose of Course
+### Scopo del corso
 
 In this course you will learn all of the fundamental aspects of computer
 programming that are necessary for conducting basic data analysis. By the end of
@@ -92,7 +92,7 @@ By learning how to get the computer to do your work for you, you will
 be able to do more science faster.
 
 
-### Course Goals and Objectives
+### Obiettivi del corso
 
 Students completing this course will be able to:
 
@@ -104,45 +104,36 @@ Students completing this course will be able to:
   languages
 
 
-### Teaching Philosophy
+### Filosofia di insegnamento
+
+L'**apprendimento** è un _processo_ che conduce ad un _cambiamento_, risultante dalle _esperienze_ e in grado dia aumentare le potenzialità di future prestanzioni e di ulteriore apprendimento. Questa definizione include 3 elementi essenziali:
+
+1. L'apprendimento è un _processo_ e non un prodotto. Tuttavia, siccome si svolge nella mente degli studenti, il docente può solo inferire che ha avuto luogo osservando le loro produzioni o le loro prestazioni.
+1. L'apprendimento implica la _modifica_ di conoscenze, convinzioni personali, comportamenti ed atteggiamenti. Queste modifiche non sono istantanee: richiedono tempo e hanno in impatto duraturo sul modo in cui gli studenti pensano ed agiscono.
+1. L'apprendimento non è qualcosa che si fa _agli_ studenti, ma qualcosa che gli studenti fanno a se stessi. E' il risultato diretto di come gli studenti interpretano e reagiscono alle proprie _esperienze_, consce e inconsce, passate e presenti. 
 
 
 
+### Frequenza
 
-## Course Policies
-
-
-### Attendance Policy
-
-Attendance will not be taken or factor into the grades for this class. However,
-experience suggests that students who regularly miss class struggle to learn the
-material.
+Obligatoria
 
 
-### Exam Policy
+### Esame
 
-There will be a final exam for this course. Students should be able to demostrate the ability to condact a well structured data analysis.
+L'esame finale consisterà nel dimostrare di essere in grado di condurre un'analisi dati strutturata.
 
-### Course Technology
+### Programmi del corso
 
-Only free available software will be used during the course.
+Durante il corso useremo programmi open-source.
 
-## Grading Policies
+## Politica del voto
 
-Grading for this course will revolve around a combination of final exam (75%)
-and interaction during the course (25%).
+Il voto finale sarà una combinazione della prova conclusiva (75%) e dell'interazione durante il corso (25%).
 
-* Produces the correct answer using the requested approach: 100%
-* Generally uses the right approach, but a minor mistake results in an incorrect
-    answer: 90%
-* Attempts to solve the problem and makes some progress using the core concept:
-    50%
-* Answer demonstrates a lack of understanding of the core concept: 0%
+## Programma del corso
 
-
-## Course Schedule
-
-The details course schedule is available on the course website at:
+Il programma dettagliato è disponibile qui:
 [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
 
 
