@@ -112,7 +112,7 @@ L'**apprendimento** è un _processo_ che conduce ad un _cambiamento_, risultante
 1. L'apprendimento implica la _modifica_ di conoscenze, convinzioni personali, comportamenti ed atteggiamenti. Queste modifiche non sono istantanee: richiedono tempo e hanno in impatto duraturo sul modo in cui gli studenti pensano ed agiscono.
 1. L'apprendimento non è qualcosa che si fa _agli_ studenti, ma qualcosa che gli studenti fanno a se stessi. E' il risultato diretto di come gli studenti interpretano e reagiscono alle proprie _esperienze_, consce e inconsce, passate e presenti. 
 
-
+(tratto da "Come impariamo", Ambrose et al)
 
 ### Frequenza
 
