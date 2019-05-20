@@ -5,6 +5,7 @@ title: Basic-02
 language: Spreadsheet
 ---
 
+## Excel
 
 1. Download the data by clicking [here](https://ndownloader.figshare.com/files/2252083) to get it from FigShare.
 1. Open up the data in a spreadsheet program.
