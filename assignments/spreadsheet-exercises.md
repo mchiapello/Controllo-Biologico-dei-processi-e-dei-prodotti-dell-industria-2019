@@ -16,6 +16,10 @@ exercises: ['Basic-01', 'Basic-02', 'Basic-03', 'Basic-04', 'Basic-05', 'Basic-0
 > - Basic quality control and data manipulation in spreadsheets
 > - Exporting data from spreadsheets
 
+> - Import data in OpenRefine
+> - Clean data in OpenRefine
+> - Reproduce analysis in OpenRefine
+
 
 {% include reading.html %}
 
