@@ -1,7 +1,7 @@
 ---
 layout: exercise
-topic: Spreadsheet
-title: Basic-02
+topic: OpenRefine
+title: Basic-03
 language: Spreadsheet
 ---
 
