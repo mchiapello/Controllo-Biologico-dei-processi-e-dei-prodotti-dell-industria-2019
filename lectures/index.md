@@ -11,7 +11,6 @@ title: Lectures
 ### Spreadsheet
 
 * [Data Entry and organization]({{ site.baseurl }}/lectures/Spreadsheet)
-* [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
 
 ### R
 
