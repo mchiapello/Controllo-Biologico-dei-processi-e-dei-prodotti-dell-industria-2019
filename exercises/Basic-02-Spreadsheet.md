@@ -1,6 +1,6 @@
 ---
 layout: exercise
-topic: Basic
+topic: Spreadsheet
 title: Basic-02
 language: Spreadsheet
 ---
