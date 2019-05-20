@@ -6,5 +6,5 @@ language: Spreadsheet
 ---
 
 ### Spreadsheet
-    - [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
-    - [OpenRefine](http://openrefine.org/)
+- [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/)
+- [OpenRefine](http://openrefine.org/)
