@@ -10,15 +10,17 @@ exercises: ['Basic-01', 'Basic-02', 'Basic-03', 'Basic-04', 'Basic-05', 'Basic-0
 
 > Following this assignment students should be able to:
 >
+> **Excel**
 > - Good data entry practices - formatting data tables in spreadsheets
 > - How to avoid common formatting mistakes
 > - Approaches for handling dates in spreadsheets
 > - Basic quality control and data manipulation in spreadsheets
 > - Exporting data from spreadsheets
-
-> - Import data in OpenRefine
-> - Clean data in OpenRefine
-> - Reproduce analysis in OpenRefine
+> 
+> **OpenRefine**
+> - Import data
+> - Clean data
+> - Reproduce analysis
 
 
 {% include reading.html %}
