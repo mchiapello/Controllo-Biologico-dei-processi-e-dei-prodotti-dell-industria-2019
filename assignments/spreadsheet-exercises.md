@@ -3,7 +3,7 @@ layout: page
 element: assignment
 title: Spreadsheet                
 language: Spreadsheet
-exercises: ['Basic-01']
+exercises: ['Basic-01', 'Basic-02']
 ---
 
 ## Learning Objectives
