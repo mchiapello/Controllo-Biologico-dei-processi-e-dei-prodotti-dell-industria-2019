@@ -6,9 +6,12 @@ title: Lectures
 ### Introduction
 
 * [Reproducible research]({{ site.baseurl }}/lectures/Spreadsheet_ReproducibleResearch.pdf)
+
+
 ### Spreadsheet
 
 * [Data Entry and organization]({{ site.baseurl }}/lectures/Spreadsheet)
+* [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/)
 
 ### R
 
