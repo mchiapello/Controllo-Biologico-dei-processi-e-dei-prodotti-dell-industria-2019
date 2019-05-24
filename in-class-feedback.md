@@ -3,6 +3,10 @@ layout: page
 title: In class feedback
 ---
 
+### Documanto condiviso
+
+[Controllo Biologico dei processi e dei prodotti dell'industria](https://docs.google.com/document/d/1252EGd3u9hKUG0EKBkDcaQPqXHmgPTgSTlqhCXmRXxM/edit?usp=sharing)
+
 ### Pre-corso
 
 | Topic | Feedback |
