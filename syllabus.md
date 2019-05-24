@@ -136,6 +136,10 @@ Il voto finale sarà una combinazione della prova conclusiva (75%) e dell'intera
 Il programma dettagliato è disponibile qui:
 [{{ site.url }}/schedule]({{ site.baseurl }}/schedule).
 
+## Documento condiviso
+
+[Controllo Biologico dei processi e dei prodotti dell'industria](https://docs.google.com/document/d/1252EGd3u9hKUG0EKBkDcaQPqXHmgPTgSTlqhCXmRXxM/edit?usp=sharing)
+
 
 **Disclaimer:** This syllabus represents my current plans and objectives. As we
 go through the course, those plans may need to change to enhance the class
