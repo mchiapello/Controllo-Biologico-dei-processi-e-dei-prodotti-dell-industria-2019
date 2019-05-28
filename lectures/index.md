@@ -14,7 +14,7 @@ title: Lectures
 
 ### R
 
-* [Introduction to R and RStudio]({{ site.baseurl }}/lectures/Rprogramming)
+* [Introduction to R and RStudio]({{ site.baseurl }}/lectures/R_programming)
 * [Data Visualization]
 * [Rmarkdown]
 
