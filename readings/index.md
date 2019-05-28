@@ -12,8 +12,7 @@ title: Readings
 
 ### R
 
-* [Introduction to R and RStudio]
-* [Working with Data]
+* [Introduction to R and RStudio]({{ site.baseurl }}/readings/R_programming)
 * [Data Visualization]
 * [Rmarkdown]
 
