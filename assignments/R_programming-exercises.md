@@ -3,7 +3,7 @@ layout: page
 element: assignment
 title: R programming              
 language: R programming
-exercises: ['R-001','R-002']
+exercises: ['R-001','R-002','R-003']
 ---
 
 ## Learning Objectives
