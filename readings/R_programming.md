@@ -5,7 +5,7 @@ title: R programming
 language: R programming
 ---
 
-### Spreadsheet
+### R programming
 - [R introduction](http://swcarpentry.github.io/r-novice-inflammation/)
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 - [R for Data Science](https://r4ds.had.co.nz/)
