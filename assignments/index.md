@@ -9,8 +9,7 @@ title: Assignments
 
 ### R
 
-* [Introduction to R and RStudio]
-* [Working with Data]
+* [Introduction to R and RStudio]({{ site.baseurl }}/assignments/R_programming-exercises)
 * [Data Visualization]
 * [Rmarkdown]
 
