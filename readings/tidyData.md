@@ -2,7 +2,7 @@
 layout: page
 element: reading
 title: tidy data 
-language: https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
+language: Tidydata and visualisation (part 1)
 ---
 
 ### Tidy data
