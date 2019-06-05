@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: tidy data
+title: Tidydata and visualisation (part 1)
 language: Tidydata and visualisation (part 1)
 ---
 
