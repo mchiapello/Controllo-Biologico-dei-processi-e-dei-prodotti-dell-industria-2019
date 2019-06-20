@@ -10,8 +10,8 @@ title: Assignments
 ### R
 
 * [Introduction to R and RStudio]({{ site.baseurl }}/assignments/R_programming-exercises)
-* [Data Visualization]({{ site.baseurl }}/assignments/visualisation)
-* [Rmarkdown]({{ site.baseurl }}/assignments/visualisation)
+* [Data Visualization]({{ site.baseurl }}/assignments/visualization)
+* [Rmarkdown]({{ site.baseurl }}/assignments/visualization)
 
 
 ### Statistics
