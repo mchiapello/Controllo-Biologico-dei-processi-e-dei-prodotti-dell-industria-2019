@@ -16,8 +16,8 @@ title: Lectures
 
 * [Introduction to R and RStudio]({{ site.baseurl }}/lectures/R_programming)
 * [Tidy data]({{ site.baseurl }}/lectures/tidyData)
-* [Data Visualization]
-* [Rmarkdown]
+* [Data Visualization]({{ site.baseurl }}/lectures/visualization)
+* [Rmarkdown]({{ site.baseurl }}/lectures/visualization)
 
 
 ### Statistics
