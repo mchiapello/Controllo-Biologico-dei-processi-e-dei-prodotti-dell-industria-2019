@@ -14,7 +14,7 @@ title: Readings
 
 * [Introduction to R and RStudio]({{ site.baseurl }}/readings/R_programming)
 * [tidy data]({{ site.baseurl }}/readings/tidyData)
-* [Data Visualization]
+* [Data Visualization]({{ site.baseurl }}/readings/visualization)
 * [Rmarkdown]
 
 
