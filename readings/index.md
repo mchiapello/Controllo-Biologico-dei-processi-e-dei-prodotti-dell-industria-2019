@@ -18,6 +18,7 @@ title: Readings
 * [Rmarkdown]({{ site.baseurl }}/readings/visualization)
 
 
-### Statistics
+### Exercises
 
-* [Statistical data analysis]
+* [Exercises]({{ site.baseurl }}/readings/exercises)
+
