@@ -1,8 +1,8 @@
 ---
 layout: page
 element: lecture
-title: Visualisation (part 2) and Rmarkdown (part 1)
-language: Visualisation (part 2) and Rmarkdown (part 1)
+title: Exercises
+language: Exercises
 ---
 
 ### Visualization
