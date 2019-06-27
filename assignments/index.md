@@ -14,7 +14,7 @@ title: Assignments
 * [Rmarkdown]({{ site.baseurl }}/assignments/visualization)
 
 
-### Statistics
+### Exercises
 
-* [Statistical data analysis]
+* [Exercises]({{ site.baseurl }}/assignments/exercises)
 
